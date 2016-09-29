@@ -1,0 +1,62 @@
+div {
+	background-color:#99ceff;
+	padding:30px;
+	color:#9966ff;
+	width:4%;
+	height:40px;
+	border: 4px dashed white;
+	margin: auto;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-family: Helvetica;
+}
+
+#navibar{
+	border: 3px solid #99ffdd;
+	text-align:center;
+	border-spacing:5px;
+	border-radius: 15%;
+}
+
+a:visited, a:link {
+	color:#66b3ff;
+	text-decoration:none;	
+}
+
+a:hover{
+	text-decoration:underline;
+	background-color:#ffe6ff;
+	color:#00ff99
+}
+
+#project {
+	border: 3px solid #99ccff;
+	margin: auto;
+}
+
+body{
+	background: url(images/Sky.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#scratch{
+	height:300px;
+	width: 150px;
+	clear:both;
+}
+
+#kyubey{
+	height: 300px;
+	width: 150px;
+	clear:both;
+}
+
+#essay{
+	height: 300px;
+	width: 150px;
+	display: block;
+	float: left;
+	clear:both;
+}
