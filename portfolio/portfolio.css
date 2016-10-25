@@ -6,10 +6,8 @@ div {
 	height:40px;
 	border: 4px dashed white;
 	margin: auto;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
 	border-radius: 50px;
-	font-family: Helvetica;
+	font-family: "Century Gothic";
 }
 
 #navibar{
@@ -17,6 +15,8 @@ div {
 	text-align:center;
 	border-spacing:5px;
 	border-radius: 15%;
+	font-family: "Century Gothic";
+	
 }
 
 a:visited, a:link {
@@ -48,13 +48,21 @@ body{
 }
 
 #kyubey{
-	height: 300px;
+	height: 310px;
 	width: 150px;
 	clear:both;
 }
 
 #essay{
-	height: 300px;
+	height: 310px;
+	width: 150px;
+	display: block;
+	float: left;
+	clear:both;
+}
+
+#pikathug{
+	height: 260px;
 	width: 150px;
 	display: block;
 	float: left;

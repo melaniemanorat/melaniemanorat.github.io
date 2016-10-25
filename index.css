@@ -3,6 +3,8 @@ table{
 	text-align:center;
 	border-spacing:5px;
 	border-radius: 15%;
+	font-family: "Century Gothic";
+
 }
 
 a:visited, a:link {
@@ -20,8 +22,8 @@ h1{
 	font-family: "Century Gothic";
 	color:#cc99ff;
 	text-align:center;
-	border:4px dashed #6666ff;
-	width:350px;
+	border:4px dotted #6666ff;
+	width:100px;
 	margin: auto;
 	border-radius: 20%;
 	background-color:#ccffff;
@@ -37,7 +39,7 @@ body{
 #me {
     display: block;
     margin: auto;
-	border-radius: 50%;
+	border-radius: 30%;
 	border: 3px solid #99ffdd;
 }
 
@@ -49,7 +51,7 @@ div {
 	margin:auto;
 	border-radius: 20%;
 	background-color:#ccffff;
-	font-family: Helvetica;
+	font-family: "Century Gothic";
 	opacity: 0.8;
 }
 
