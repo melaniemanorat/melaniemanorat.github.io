@@ -68,3 +68,11 @@ body{
 	float: left;
 	clear:both;
 }
+
+#datapro{
+	height:250px;
+	width: 150px;
+	display: block;
+	float: left;
+	clear:both;
+}

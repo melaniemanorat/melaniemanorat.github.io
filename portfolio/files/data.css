@@ -1,0 +1,37 @@
+table{
+	border: 3px solid #99ffdd;
+	text-align:center;
+	border-spacing:5px;
+	border-radius: 15%;
+	font-family: "Century Gothic";
+
+}
+
+a:visited, a:link {
+	color:#9966ff;
+	text-decoration:none;	
+}
+
+a:hover{
+	text-decoration:underline;
+	background-color:#ffe6ff;
+	color:#00ff99;
+}
+
+body{
+	background: url(Sky.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+div {
+	background-color:#99ceff;
+	padding:30px;
+	color:#9966ff;
+	width:10%;
+	height:40px;
+	border: 4px dashed white;
+	margin: auto;
+	border-radius: 50px;
+	font-family: "Century Gothic";
+}
