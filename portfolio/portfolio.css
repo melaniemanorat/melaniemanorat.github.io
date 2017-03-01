@@ -70,8 +70,16 @@ body{
 }
 
 #datapro{
-	height:250px;
+	height:270px;
 	width: 150px;
+	display: block;
+	float: left;
+	clear:both;
+}
+
+#rebel{
+	height:350px;
+	width: 180px;
 	display: block;
 	float: left;
 	clear:both;
